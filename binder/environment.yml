@@ -1,0 +1,10 @@
+name: feedback
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11.5
+  - matplotlib=3.7.2
+  - numpy=1.25.2
+  - pandas=2.0.3
+  - graph-tool=2.58
